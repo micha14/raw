@@ -254,7 +254,7 @@
     "userIcon": ""
   },
   {
-    "name": "noteofdeath",
+    "name": "noteofdeath / Nerull",
     "allyCode": "861731878",
     "tagIdOnDrop": "",
     "tagIdOnClimb": "392717135878553610",
@@ -586,6 +586,12 @@
       {
     "name": "Guppi2006",
     "allyCode": "549449114",
+    "tagIdOnDrop": "",
+    "userIcon": ""
+  },
+      {
+    "name": "ComandanteVenom",
+    "allyCode": "145167351",
     "tagIdOnDrop": "",
     "userIcon": ""
   }
