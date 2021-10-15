@@ -405,7 +405,7 @@
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-  
+
   {
     "name": "",
     "allyCode": "438817261",
@@ -413,14 +413,14 @@
     "userIcon": ""
   },
   
-    {
+ {
     "name": "",
     "allyCode": "114829928",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
   
-      {
+  {
     "name": "",
     "allyCode": "185923433",
     "tagIdOnDrop": "",
@@ -456,7 +456,7 @@
     "tagIdOnDrop": "",
     "userIcon": ":poop:"
   },
-  {
+    {
     "name": "Luca Skyhopper",
     "allyCode": "743488993",
     "tagIdOnDrop": "",
@@ -504,7 +504,7 @@
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-     {
+    {
     "name": "ObiRussian",
     "allyCode": "524849623",
     "tagIdOnDrop": "",
@@ -546,70 +546,76 @@
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-      {
+    {
     "name": "JLY",
     "allyCode": "314513853",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-      {
+    {
     "name": "Malk",
     "allyCode": "627325447",
     "tagIdOnDrop": "592466190715322398",
     "tagIdOnClimb": "592466190715322398",
     "userIcon": ":eyes:"
   },
-   {
+    {
     "name": "Dedal",
     "allyCode": "315382154",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-   {
+    {
     "name": "DarthGrendel",
     "allyCode": "156347455",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-      {
+    {
     "name": "Lupus (Supreme Commander Lupus)",
     "allyCode": "623615773",
     "tagIdOnDrop": "366337980899786754",
     "userIcon": ":scream:"
   },
-      {
+    {
     "name": "ThatOneGuy",
     "allyCode": "451251473",
     "tagIdOnDrop": "196884254884495361",
     "userIcon": ""
   },
-      {
+    {
     "name": "Guppi2006",
     "allyCode": "549449114",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-      {
+    {
     "name": "ComandanteVenom",
     "allyCode": "145167351",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-      {
+    {
     "name": "MINI Desert Wanderer",
     "allyCode": "425334541",
     "tagIdOnDrop": "",
     "userIcon": ":eyes:"
   },
-      {
+    {
     "name": "Suroman",
     "allyCode": "243821845",
     "tagIdOnDrop": "",
     "userIcon": ""
   },
-      {
+    {
     "name": "Ronnio",
     "allyCode": "975934194",
+    "tagIdOnDrop": "",
+    "userIcon": ""
+  },
+    {
+    "name": "FIΞND",
+    "allyCode": "361472794",
     "tagIdOnDrop": "",
     "userIcon": ""
   }
